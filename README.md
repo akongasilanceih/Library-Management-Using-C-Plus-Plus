@@ -1,4 +1,4 @@
-# Library-Management-Using-C-
+# Library-Management-Using-C++
 
 This is a Library Management System Using C++
 
